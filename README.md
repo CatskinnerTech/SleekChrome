@@ -1,6 +1,6 @@
 # SleekChrome
 ## Description
-Dark Chrome theme for good visibility of verticle tabs like in Brave Browser.
+Dark Chrome theme for good visibility of verticle tabs (Active tab is highlighted dark gray with green text) like in Brave Browser.
 
 ## Installalation
   1. Download as Zip
